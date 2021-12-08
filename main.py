@@ -3,7 +3,7 @@ from discord import FFmpegPCMAudio
 from discord.ext import commands,tasks
 from asyncio import run_coroutine_threadsafe as rct
 
-DISCORD_TOKEN='OTE0NzMwMDA1MDg5NjIwMDE4.YaRStA.YQTn7_Zdfgz6fCJ9rYPLwsgSjaI'
+DISCORD_TOKEN='sex'
 bot = commands.Bot(command_prefix='_')
 sacred_file="assets/sound.mp3"
 
